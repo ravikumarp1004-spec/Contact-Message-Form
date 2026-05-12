@@ -41,4 +41,4 @@ The system:
 ---
 
 ## 🧠 Architecture Overview
-<img width="6206" height="1113" alt="Contact Message Form Flow chart" src="https://github.com/user-attachments/assets/b41bdcd9-0fc2-423f-b2f7-e24dd1d6e6c4" />
+<img width="5535" height="952" alt="Contact Message Form Flow chart" src="https://github.com/user-attachments/assets/f3e2669e-fb6f-41aa-93f4-6d1cd3dd365c" />
