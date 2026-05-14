@@ -4,7 +4,7 @@
 
 This project demonstrates a fully automated, LLM-powered contact management system built using n8n.
 
-It intelligently processes user enquiries submitted via a contact form, categorises them, sends notifications, generates AI-based responses, and maintains structured records — significantly reducing manual effort and improving response efficiency.
+It intelligently processes user enquiries submitted via a contact form, categorises them, sends notifications, generates AI-based responses, and maintains structured records - significantly reducing manual effort and improving response efficiency.
 
 ---
 
